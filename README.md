@@ -2,12 +2,8 @@
 
 
 
-
-
-
-> **개인 블로그 URL :** https://u-it.tistory.com/
-> 
-> **개인 포트폴리오 URL :** https://yoohyeok.github.io/u-it/
+> <a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
+> <a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
 
 
 
@@ -91,10 +87,8 @@
 >
 > ##### 담당업무 : [백엔드/프론트엔드] 서비스 전체 기획 및 설계, 개발환경 구축
 > 
-> ##### GitHub - Repository ▼
-> BackEnd : https://github.com/YooHyeok/codertown-server
->
-> FrontEnd : https://github.com/YooHyeok/codertown-client
+> ##### GitHub - Repository ☞  <a href="https://github.com/YooHyeok/codertown-server">`BackEnd`<a> <a href="https://github.com/YooHyeok/codertown-client">`FrontEnd`<a>
+
 
 
 ## 🗂️ Team Project (팀 프로젝트)
@@ -109,10 +103,8 @@
 >
 > ##### 담당업무 : [기술팀장] 개발환경 구축, 식단관리 외 다수 페이지 구현 /  팀내 오류 해결, 전체 버그수정 및 통합 테스트
 >  
-> ##### GitHub - Repository ▼
-> Backend : https://github.com/YooHyeok/cookcrew_backend
->
-> Frontend : https://github.com/YooHyeok/cookcrew_frontend
+> ##### GitHub - Repository ☞  <a href="https://github.com/YooHyeok/cookcrew_backend">`BackEnd`<a> <a href="https://github.com/YooHyeok/cookcrew_frontend">`FrontEnd`<a>
+
 
 
 #### 📱 FlowerPot (화분 - 화장품을 분석하다)
@@ -125,10 +117,7 @@
 >
 > ##### 담당업무 : [부팀장] 관리자 API,페이지 및 DB 구축, 팀내 오류 해결
 >
-> ##### Prototype & GitHub - Repository ▼
-> ProtoType : https://yoohyeok.github.io/TPFPA/
->  
-> Backend : https://github.com/YooHyeok/flowerPot
+> ##### GitHub - Repository ☞  <a href="https://github.com/YooHyeok/flowerPot">`Project`<a> <a href="https://yoohyeok.github.io/TPFPA">`ProtoType`<a>
 
 
 ## 🏅 Certificate (자격증)
