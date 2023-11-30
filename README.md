@@ -87,7 +87,7 @@
 >
 > ##### 담당업무 : [백엔드/프론트엔드] 서비스 전체 기획 및 설계, 개발환경 구축
 > 
-> ##### GitHub - Repository ☞  <a href="https://github.com/YooHyeok/codertown-server">`BackEnd`<a> <a href="https://github.com/YooHyeok/codertown-client">`FrontEnd`<a>
+> ##### GitHub - Repository ▶  <a href="https://github.com/YooHyeok/codertown-server">`BackEnd`<a> <a href="https://github.com/YooHyeok/codertown-client">`FrontEnd`<a>
 
 
 
@@ -103,7 +103,7 @@
 >
 > ##### 담당업무 : [기술팀장] 개발환경 구축, 식단관리 외 다수 페이지 구현 /  팀내 오류 해결, 전체 버그수정 및 통합 테스트
 >  
-> ##### GitHub - Repository ☞  <a href="https://github.com/YooHyeok/cookcrew_backend">`BackEnd`<a> <a href="https://github.com/YooHyeok/cookcrew_frontend">`FrontEnd`<a>
+> ##### GitHub - Repository ▶  <a href="https://github.com/YooHyeok/cookcrew_backend">`BackEnd`<a> <a href="https://github.com/YooHyeok/cookcrew_frontend">`FrontEnd`<a>
 
 
 
@@ -117,7 +117,9 @@
 >
 > ##### 담당업무 : [부팀장] 관리자 API,페이지 및 DB 구축, 팀내 오류 해결
 >
-> ##### GitHub - Repository ☞  <a href="https://github.com/YooHyeok/flowerPot">`Project`<a> <a href="https://yoohyeok.github.io/TPFPA">`ProtoType`<a>
+> ##### GitHub - Repository ▶  <a href="https://github.com/YooHyeok/flowerPot">`Project`<a>
+>
+> ##### Prototype Static Page ▶  <a href="https://yoohyeok.github.io/TPFPA">`ProtoType`<a>
 
 
 ## 🏅 Certificate (자격증)
