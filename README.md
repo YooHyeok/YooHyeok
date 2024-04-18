@@ -1,3 +1,8 @@
+<div align="left">
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+<div align="center">
+	
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff)
 
 
@@ -6,9 +11,12 @@
 > <a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
 
 
-
+<div align="left">
+	
 ## GitHub Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ <div align="center">
 <table><tr><td valign="top" width="50%">
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YooHyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" /> -->
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yoohyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" />
@@ -19,6 +27,7 @@
 	<img src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
 </a>
 
+<div align="left">
 
 ## ⚙️ Skill (스킬)
 
