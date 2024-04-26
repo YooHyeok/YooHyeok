@@ -14,7 +14,7 @@
 <div align="left">
 	
 ## GitHub Stats
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
  <div align="center">
 <table><tr><td valign="top" width="50%">
