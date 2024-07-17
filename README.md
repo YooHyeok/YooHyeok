@@ -78,10 +78,15 @@
 
 ## 🔭 Career (경력)
 
-> #### Yes E&C - ERP developer (2021.11 ~ 2022.05)
->
+> #### *Yes E&C* - EHSS Solution developer (2021.11.22 ~ 2022.05.31)
+> - 기술 스택
+>     - SpringBoot, Maven, Mybatis, JSP, Javascript, jQuery&Ajax, AUIGrid, MariaDB
 > - 다수 ERP 개발
 > - 다수 프로토타입 리뉴얼
+
+> #### *Diquest* - NLP Chatbot Solution developer (2024.07.08 ~ ing)
+> - 기술 스택
+>     - SpringBoot, Maven, Mybatis, JPA, JSP, Vue.js, Oracle, MySQL
 
 
 ## 🗂️ Toy Project (토이 프로젝트)
@@ -90,7 +95,7 @@
 >
 > ##### 간략소개 : 코끼리, 맘모스 - 사이드프로젝트/스터디 구인 & 채팅 서비스 , 코글 - 개발자 커뮤니티
 > - 코끼리 : `코`딩하는 사람 `끼리`
-> - 맘모스 : `맘` 맞는사람 `모`여서 `스`터디
+> - 맘모스 : `맘`맞는사람 `모`여서 `스`터디
 > - 코　글 : 코더타운 게시판 커뮤니티
 > 
 > ##### 📆 기간 : 2023.07 ~ 기획&설계&개발 진행중
