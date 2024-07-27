@@ -75,19 +75,17 @@
 <!-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white" style="zoom:150%; float: left"/>&nbsp; -->
 
-
 ## 🔭 Career (경력)
-
-> #### *Yes E&C* - EHSS Solution developer (2021.11.22 ~ 2022.05.31)
-> - 기술 스택
->     - SpringBoot, Maven, Mybatis, JSP, Javascript, jQuery&Ajax, AUIGrid, MariaDB
-> - 다수 ERP 개발
-> - 다수 프로토타입 리뉴얼
 
 > #### *Diquest* - NLP Chatbot Solution developer (2024.07.08 ~ ing)
 > - 기술 스택
 >     - SpringBoot, Maven, Mybatis, JPA, JSP, Vue.js, Oracle, MySQL
 
+> #### *Yes E&C* - EHSS Solution developer (2021.11.22 ~ 2022.05.31)
+> - 다수 ERP 개발
+> - 다수 프로토타입 리뉴얼
+> - 기술 스택
+>     - SpringBoot, Maven, Mybatis, JSP, Javascript, jQuery&Ajax, AUIGrid, MariaDB
 
 ## 🗂️ Toy Project (토이 프로젝트)
 
