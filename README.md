@@ -39,10 +39,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="zoom:150%; float: left" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="zoom:150%; float: left" />
 #####  ▫️ Backend
 
 <img src="https://img.shields.io/badge/Java 8-007396?style=flat-square&logo=Java&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/Java 11-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java 17-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="zoom:150%; float: left" />&nbsp;
@@ -67,8 +69,9 @@
 <img src="https://img.shields.io/badge/PostgreSQL-416921?style=flat-square&logo=PostgreSQL&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 
 #####  ▫️ CI / CD
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
@@ -78,12 +81,15 @@
 ## 🔭 Career (경력)
 
 > #### *Diquest* - NLP Chatbot Solution developer (2024.07.08 ~ ing)
+> - 디플랫폼2
+>   - 인사이트 팩토리 화면 개발 참여
 > - 기술 스택
 >     - SpringBoot, Maven, Mybatis, JPA, JSP, Vue.js, Oracle, MySQL
 
 > #### *Yes E&C* - EHSS Solution developer (2021.11.22 ~ 2022.05.31)
-> - 다수 ERP 개발
-> - 다수 프로토타입 리뉴얼
+> - EHSS 통환 환경 솔루션
+>   - 다수 ERP 메뉴 개발 참여
+>   - 다수 프로토타입 리뉴얼 참여
 > - 기술 스택
 >     - SpringBoot, Maven, Mybatis, JSP, Javascript, jQuery&Ajax, AUIGrid, MariaDB
 
