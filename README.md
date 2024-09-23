@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="zoom:150%; float: left" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="zoom:150%; float: left" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue2&logoColor=white" style="zoom:150%; float: left" />
 #####  ▫️ Backend
 
 <img src="https://img.shields.io/badge/Java 8-007396?style=flat-square&logo=Java&logoColor=white" style="zoom:150%; float: left" />&nbsp;
@@ -80,11 +80,11 @@
 
 ## 🔭 Career (경력)
 
-> #### *Diquest* - NLP Chatbot Solution developer (2024.07.08 ~ ing)
+> #### *Diquest* - NLP Solution developer (2024.07.08 ~ ing)
 > - 디플랫폼2
 >   - 인사이트 팩토리 화면 개발 참여
 > - 기술 스택
->     - SpringBoot, Maven, Mybatis, JPA, JSP, Vue.js, Oracle, MySQL
+>     - SpringBoot, Maven, Mybatis, JPA, Vue.js, Oracle, MySQL
 
 > #### *Yes E&C* - EHSS Solution developer (2021.11.22 ~ 2022.05.31)
 > - EHSS 통환 환경 솔루션
@@ -98,7 +98,7 @@
 #### 📱 CoderTown (코끼리 / 맘모스 / 코글)
 >
 > ##### 간략소개 : 코끼리, 맘모스 - 사이드프로젝트/스터디 구인 & 채팅 서비스 , 코글 - 개발자 커뮤니티
-> - 코끼리 : `코`딩하는 사람 `끼리`
+> - 코끼리 : `코`딩하는 사람`끼리`
 > - 맘모스 : `맘`맞는사람 `모`여서 `스`터디
 > - 코　글 : 코더타운 게시판 커뮤니티
 > 
