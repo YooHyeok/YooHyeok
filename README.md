@@ -17,10 +17,10 @@
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
  <div align="center">
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center">
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YooHyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" /> -->
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yoohyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" />
-  </td><td valign="top" width="50%">
+  </td><td valign="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
 </td></tr></table>  
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
