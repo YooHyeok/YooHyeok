@@ -82,7 +82,7 @@
 
 > #### *Diquest* - NLP Solution developer (2024.07.08 ~ ing)
 > - 디플랫폼2
->   - 인사이트 팩토리 화면 개발 참여
+>   - 인사이트 팩토리 개발 참여
 > - 기술 스택
 >     - SpringBoot, Maven, Mybatis, JPA, Vue.js, Oracle, MySQL
 
