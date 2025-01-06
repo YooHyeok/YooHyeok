@@ -28,11 +28,10 @@
 </a>
 
 <div align="left">
-
+<br>
+	
 ## ⚙️ Skill (스킬)
-
 #####  ▫️ Frontend
-
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>&nbsp;
@@ -42,9 +41,9 @@
 <img src="https://img.shields.io/badge/Vue2-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="zoom:150%; float: left" />
 <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" style="zoom:150%; float: left" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="zoom:150%; float: left" />
+<br>
 
 #####  ▫️ Backend
-
 <img src="https://img.shields.io/badge/Java 8-007396?style=flat-square&logo=Java&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/Java 11-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java 17-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
@@ -56,20 +55,20 @@
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" style="zoom:150%; float: left"/>
-
-
-
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<br>
 
 #####   ▫️ ViewTemplate
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white" style="zoom:150%; float: left" />&nbsp;
-
+<br>
 
 #####  ▫️ DataBase
-
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="zoom:150%; float: left" />&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="zoom:150%; float: left" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-416921?style=flat-square&logo=PostgreSQL&logoColor=white" style="zoom:150%; float: left" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white" style="zoom:150%; float: left" />&nbsp;
+<br>
 
 #####  ▫️ CI / CD
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
@@ -80,23 +79,34 @@
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <!-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white" style="zoom:150%; float: left"/>&nbsp; -->
+<br>
 
 ## 🔭 Career (경력)
 
-> #### *Diquest* - NLP Solution developer (2024.07.08 ~ ing)
-> - 디플랫폼2
->   - 법률구조공단 F/E 유지보수
->   - 프로토타입 F/E 경량화
+> ### 🏢*Diquest* - NLP Solution developer (2024.07.08 ~ ing)
+> - #### 카카오 뱅크 챗봇 프로젝트
+>   - 카카오 빌더 UI 대응 및 화면개발
+>   - 백엔드 API 개발  
+> - #### 다이버7
+>   - 신규 버전업
+>   - API 인터페이스 파악 및 설계 정의 문서화  
+>   - 백엔드 API 개발  
+> - #### 디플랫폼2
 >   - 인사이트 팩토리 F/E 개발
+>   - 법률구조공단 F/E 유지보수
+>   - 프로토타입 경량화
+>   - 2.0.0.0 Release 고도화
+>   - GS 인증
 > - 기술 스택
 >     - SpringBoot, Maven, Mybatis, JPA, Vue.js, Oracle, MySQL
 
-> #### *Yes E&C* - EHSS Solution developer (2021.11.22 ~ 2022.05.31)
-> - EHSS 통환 환경 솔루션
+> ### 🏢*Yes E&C* - EHSS Solution developer (2021.11.22 ~ 2022.05.31)
+> - #### EHSS 통환 환경 솔루션
 >   - 다수 ERP 메뉴 개발 참여
 >   - 다수 프로토타입 리뉴얼 참여
 > - 기술 스택
 >     - SpringBoot, Maven, Mybatis, JSP, Javascript, jQuery&Ajax, AUIGrid, MariaDB
+<br>
 
 ## 🗂️ Toy Project (토이 프로젝트)
 
@@ -114,7 +124,7 @@
 > ##### 담당업무 : [백엔드/프론트엔드] 서비스 전체 기획 및 설계, 개발환경 구축
 > 
 > ##### GitHub - Repository ▶  <a href="https://github.com/YooHyeok/codertown-server">`BackEnd`<a> <a href="https://github.com/YooHyeok/codertown-client">`FrontEnd`<a>
-
+<br>
 
 
 ## 🗂️ Team Project (팀 프로젝트)
@@ -131,8 +141,6 @@
 >  
 > ##### GitHub - Repository ▶  <a href="https://github.com/YooHyeok/cookcrew_backend">`BackEnd`<a> <a href="https://github.com/YooHyeok/cookcrew_frontend">`FrontEnd`<a>
 
-
-
 #### 📱 FlowerPot (화분 - 화장품을 분석하다)
 >
 > ##### 간략소개 : 화장품 성분분석 및 추천, 매거진, 관리자 등으로 이루어진 화장품 쇼핑몰
@@ -146,9 +154,24 @@
 > ##### GitHub - Repository ▶  <a href="https://github.com/YooHyeok/flowerPot">`Project`<a>
 >
 > ##### Prototype Static Page ▶  <a href="https://yoohyeok.github.io/TPFPA">`ProtoType`<a>
+<br>
 
+## 🏆 Honors & Awards(수상 내역)
+### 2023년 국가인적자원개발컨소시엄 사업
+ - Java기반 Devops 개발자 양성 훈련 과정
+ - 🏅최종 프로젝트 경연 (개인 부문) **CoderTown** 최우수상 수상 (oct 2023)
+ - 수상기관: KOSTA 한국소프트웨어기술진흥협회
+### 2022년 광명시 주관 산업분야 맞춤형 인재 양성 사업  
+  -  빅데이터 분석 서비스 플랫폼 프론트엔드 개발자 과정
+  - 🏅최종 프로젝트 경연(팀 부문) **CookCrew** 최우수상 수상 (Jan 2023)
+  - 수상기관: KFQ 한국 품질재단
+### 2020년 고용노동부 주관 직업훈련 교육과정
+  - 프레임워크 기반 자바 웹개발자 양성과정
+  - 🏅최종 프로젝트 경연(팀 부문) **FlowerPot** 최우수상 수상 (Aug 2020)
+  - 수상기관: KG IT BANK
+<br>
 
-## 🏅 Certificate (자격증)
+## 🪪Certificate (자격증)
 
 > #### SQLD(SQL개발자) 
 >
