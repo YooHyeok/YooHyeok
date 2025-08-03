@@ -1,3 +1,7 @@
+<div align="left">
+	
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
+	
 <div align="center">
 	
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff)
