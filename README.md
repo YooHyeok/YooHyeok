@@ -4,9 +4,13 @@
 	
 <div align="center">
 	
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff)
-
-
+<!--![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff) -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/YooHyeok" width="500" height="300"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/YooHyeok" width="1000" height="120"/>
+</a>
 
 > <a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
 > <a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
@@ -16,9 +20,7 @@
 	
 ## GitHub Stats
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/YooHyeok" width="1000" height="120"/>
-</a>
+
  <div align="center">
 <table><tr><td valign="center">
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YooHyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" /> -->
@@ -27,12 +29,6 @@
 	  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
 </td></tr></table>  
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/YooHyeok" width="500" height="200"/>
-</a>
-
 
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
 	<img src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
