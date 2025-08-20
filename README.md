@@ -17,7 +17,7 @@
 ## GitHub Stats
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/YooHyeok" width="1000" height="80"/>
+  <img src="https://render.gitanimals.org/lines/YooHyeok" width="1000" height="120"/>
 </a>
  <div align="center">
 <table><tr><td valign="center">
@@ -28,6 +28,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
 </td></tr></table>  
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/YooHyeok" width="500" height="200"/>
+</a>
 
 
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
