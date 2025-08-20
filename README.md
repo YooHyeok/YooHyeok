@@ -5,10 +5,10 @@
 <div align="center">
 	
 <!--![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff) -->
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/YooHyeok/gitanimals">
   <img src="https://render.gitanimals.org/farms/YooHyeok" width="500" height="300"/>
 </a>
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/YooHyeok/gitanimals">
   <img src="https://render.gitanimals.org/lines/YooHyeok" width="1000" height="120"/>
 </a>
 
