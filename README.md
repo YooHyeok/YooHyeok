@@ -6,10 +6,10 @@
 	
 <!--![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff) -->
 <a href="https://github.com/YooHyeok/gitanimals">
-  <img src="https://render.gitanimals.org/farms/YooHyeok" width="500" height="300"/>
+  <img src="https://render.gitanimals.org/farms/YooHyeok" width="400" height="300"/>
 </a>
 <a href="https://github.com/YooHyeok/gitanimals">
-  <img src="https://render.gitanimals.org/lines/YooHyeok" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106"" width="1000" height="120"/>
 </a>
 
 > <a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
