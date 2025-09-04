@@ -5,30 +5,34 @@
 <div align="center">
 	
 <!--![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff) -->
-<a href="https://www.gitanimals.org">
-  <img src="https://render.gitanimals.org/farms/YooHyeok?success" width="400"  height="300"/>
-</a>
+
+<img src="https://render.gitanimals.org/farms/YooHyeok?success" width="330"  height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
 <a href="https://github.com/YooHyeok/gitanimals">
   <img src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106"" width="1000" height="120"/>
 </a>
 
-> <a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
-> <a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
+<a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
+<a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
 
-
+<!--
 <div align="left">
-	
-## GitHub Stats
-<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
+## GitHub Stats
+-->
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+<!--
  <div align="center">
 <table><tr><td valign="center">
+-->
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YooHyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" /> -->
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=yoohyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" />
   </td><td valign="center">
 	  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
 </td></tr></table>  
+-->
 
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
 	<img src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
