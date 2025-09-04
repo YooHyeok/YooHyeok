@@ -9,7 +9,7 @@
 <img src="https://render.gitanimals.org/farms/YooHyeok?success" width="330"  height="300"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
 <a href="https://github.com/YooHyeok/gitanimals">
-  <img src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106"" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106"" width="1000" height="150"/>
 </a>
 
 <a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
