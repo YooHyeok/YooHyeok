@@ -1,9 +1,10 @@
 <div align="left">
 
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
-<div align="center">
-	
+
 ## GitHub Stats
+<div align="center">
+
 <img alt="[gitanimals 농장]"    width="330"  height="165" src="https://render.gitanimals.org/farms/YooHyeok?success" />
 <img alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" />
 <img art="[gitanimals 농장]"    width="1000" height="150" src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106" />
@@ -95,7 +96,9 @@
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <br>
 
-#####  ▫️ CI / CD
+#####  ▫️ DevOps/Infra
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
