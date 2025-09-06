@@ -2,20 +2,27 @@
 
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
 
+
+<div align="center">
+	
+<a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
+<a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
+
+<div align="left">
+	
 ## GitHub Stats
 <div align="center">
 
+<img art="[gitanimals 농장]"    width="630" src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106" style="height: auto; object-fit:contain;" />
+<br>
 <img alt="[gitanimals 농장]"    width="330"  height="165" src="https://render.gitanimals.org/farms/YooHyeok?success" />
 <img alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" />
-<img art="[gitanimals 농장]"    width="1000" height="150" src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106" />
 <!--
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
 	<img alt="[OPGC 기여도랭킹]" src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
 </a>
 -->
 
-<a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
-<a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
 <!-- ======================================================================================================================================================================= -->
 <!-- ================================================================ [무지개/기여도/사용언어/기여도랭킹]:START ================================================================= -->
 <!--
