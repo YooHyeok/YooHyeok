@@ -1,12 +1,15 @@
+
 <div align="left">
-
+	
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
-
-
 <div align="center">
 	
-<a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
-<a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=header&text=Web%20Fullstack%20Developer&fontColor=ffffff&fontSize=35)
+<br>
+<a href="https://u-it.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Devlog-4593fc?style=square&logo=GitHubSponsors&logoColor=white"/></a>
+<a href="https://yoohyeok.github.io/u-it"><img src="https://img.shields.io/badge/Portfolio-eaeaea.svg?style=square&logo=artifacthub&logoColor=white"/></a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=footer&text=Yoo%20JaeHyeok&fontColor=ffffff&fontSize=35)
 
 <div align="left">
 	
