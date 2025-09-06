@@ -1,43 +1,58 @@
 <div align="left">
-	
+
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
-	
 <div align="center">
 	
-<!--![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff) -->
-
-<img src="https://render.gitanimals.org/farms/YooHyeok?success" width="330"  height="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
-<a href="https://github.com/YooHyeok/gitanimals">
-  <img src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106"" width="1000" height="150"/>
+## GitHub Stats
+<img alt="[gitanimals 농장]"    width="330"  height="165" src="https://render.gitanimals.org/farms/YooHyeok?success" />
+<img alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" />
+<img art="[gitanimals 농장]"    width="1000" height="150" src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106" />
+<!--
+<a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
+	<img alt="[OPGC 기여도랭킹]" src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
 </a>
+-->
 
 <a href="https://u-it.tistory.com">`기술블로그`<a> &nbsp;
 <a href="https://yoohyeok.github.io/u-it">`포트폴리오`<a>
-
+<!-- ======================================================================================================================================================================= -->
+<!-- ================================================================ [무지개/기여도/사용언어/기여도랭킹]:START ================================================================= -->
 <!--
 <div align="left">
 
-## GitHub Stats
--->
-<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
-<!--
- <div align="center">
-<table><tr><td valign="center">
--->
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YooHyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" /> -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=yoohyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" style="float: left;" />
-  </td><td valign="center">
-	  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" alt="YooHyeok's GitHub stats" style="float: right;" />
-</td></tr></table>  
--->
-
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
+<div align="center">
+	
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff)
+<img alt="[git stats 기여도]" src="https://github-readme-stats.vercel.app/api?username=yoohyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" />
+<img alt="[git stats 언어비율]" width="354.56" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" />
+<br>
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
-	<img src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
+	<img alt="[OPGC 기여도랭킹]" src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
 </a>
+-->
+<!-- ================================================================ [무지개/기여도/사용언어/기여도랭킹]:END ================================================================= -->
+<!-- ======================================================================================================================================================================= -->
+<!-- =========================================================== [무지개/3D 잔디/기여도현황/사용언어/기여도랭킹]:START =========================================================== -->
+<!--
+<div align="left">
 
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
+	
+![](./profile-3d-contrib/profile-night-rainbow.svg) 
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=header&text=YooHyeok`s%20github&fontSize=40&fontColor=ffffff)
+<img alt="[git stats 기여도]" src="https://github-readme-stats.vercel.app/api?username=yoohyeok&show_icons=true&theme=radical" alt="YooHyeok's GitHub stats" />
+<img alt="[git stats 언어비율]" width="354.56" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" />
+<br>
+<a href="https://www.opgc.me/#/users/YooHyeok" target="_blank">
+  <img alt="[OPGC 기여도랭킹]" src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
+</a>
+-->
+<!-- =========================================================== [무지개/3D 잔디/기여도현황/사용언어/기여도랭킹]:END =========================================================== -->
+<!-- ======================================================================================================================================================================= -->
+	 
 <div align="left">
 <br>
 	
@@ -55,9 +70,7 @@
 <br>
 
 #####  ▫️ Backend
-<img src="https://img.shields.io/badge/Java 8-007396?style=flat-square&logo=Java&logoColor=white" style="zoom:150%; float: left" />&nbsp;
-<img src="https://img.shields.io/badge/Java 11-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Java 17-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java(8/11/17/21)-007396?style=flat-square&logo=openjdk&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="zoom:150%; float: left" />&nbsp;
@@ -65,9 +78,9 @@
 <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache Kafka-ED8B0B?style=flat-square&logo=apachekafka&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <br>
 
 #####   ▫️ ViewTemplate
@@ -77,6 +90,7 @@
 #####  ▫️ DataBase
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="zoom:150%; float: left" />&nbsp;
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-416921?style=flat-square&logo=PostgreSQL&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <br>
@@ -87,7 +101,7 @@
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubeserver&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <!-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white" style="zoom:150%; float: left"/>&nbsp; -->
 <br>
