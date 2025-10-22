@@ -4,7 +4,7 @@
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYooHyeok?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
 <div align="center">
 	
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=header&text=Web%20Fullstack%20Developer&fontColor=ffffff&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=header&text=Web%20Developer&fontColor=ffffff&fontSize=35)
 <br>
 <a href="https://u-it.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Devlog-4593fc?style=square&logo=GitHubSponsors&logoColor=white"/></a>
 <a href="https://yoohyeok.github.io/u-it"><img src="https://img.shields.io/badge/Portfolio-eaeaea.svg?style=square&logo=artifacthub&logoColor=white"/></a>
