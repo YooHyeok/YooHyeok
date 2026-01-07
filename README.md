@@ -19,7 +19,7 @@
 <img art="[gitanimals 농장]"    width="630" src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106" style="height: auto; object-fit:contain;" />
 <br>
 <img alt="[gitanimals 농장]"    width="330"  height="165" src="https://render.gitanimals.org/farms/YooHyeok?success" />
-<img alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyeok&layout=compact&theme=radical" />
+<img alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yooHyeok&layout=compact&theme=radical" />
 <!--
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
 	<img alt="[OPGC 기여도랭킹]" src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
