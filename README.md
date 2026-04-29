@@ -18,8 +18,13 @@
 
 <img art="[gitanimals 농장]"    width="630" src="https://render.gitanimals.org/lines/YooHyeok?pet-id=746033452721742106" style="height: auto; object-fit:contain;" />
 <br>
-<img alt="[gitanimals 농장]"    width="330"  height="165" src="https://render.gitanimals.org/farms/YooHyeok?success" />
-<img alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yooHyeok&layout=compact&theme=radical" />
+<!-- <img style="height: auto; object-fit:contain;" alt="[gitanimals 농장]"    width="330"  height="165" src="https://render.gitanimals.org/farms/YooHyeok?success" />
+<img style="height: auto; object-fit:contain;" alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yooHyeok&layout=compact&theme=radical" /> -->
+<div align="center">
+<picture><img alt="[gitanimals 농장]" width="330" height="165" src="https://render.gitanimals.org/farms/YooHyeok?success" /></picture>
+<picture><img alt="[git stats 언어비율]" width="300" height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yooHyeok&layout=compact&theme=radical" /></picture>
+</div>
+
 <!--
 <a href="https://www.opgc.me/#/users/YooHyeok" target="_blank" >
 	<img alt="[OPGC 기여도랭킹]" src="https://api.opgc.me/githubs/users/YooHyeok/tag/?theme=prism" />
