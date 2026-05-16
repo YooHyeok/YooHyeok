@@ -74,9 +74,9 @@
 	
 ## ⚙️ Skill (스킬)
 #####  ▫️ Frontend
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white" style="zoom:150%; float: left" />&nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="zoom:150%; float: left" />&nbsp;
-<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>&nbsp;
+<!-- <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white" style="zoom:150%; float: left" />&nbsp; -->
+<!-- <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="zoom:150%; float: left" />&nbsp; -->
+<!-- <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>&nbsp; -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="zoom:150%; float: left" />
@@ -111,6 +111,7 @@
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 <br>
 
+<!--
 #####  ▫️ DevOps/Infra
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
@@ -120,8 +121,10 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubeserver&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
+-->
 <!-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white" style="zoom:150%; float: left"/>&nbsp; -->
+
 <br>
 
 ## 🔭 Career (경력)
